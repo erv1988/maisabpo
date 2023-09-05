@@ -18,4 +18,4 @@
 # Список работ 
 (будет пополняться):
 
-  - [Лабораторная работа № 1. Основной математический аппарат](https://github.com/erv1988/Shells/blob/master/maisabpo/01/readme.md)
+  - [Лабораторная работа № 1. Основной математический аппарат](https://github.com/erv1988/maisabpo/blob/master/01/readme.md)
