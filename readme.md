@@ -15,6 +15,8 @@
 
 Руководство по оформлению Markdown файлов [тут](https://gist.github.com/Jekins/2bf2d0638163f1294637) и [тут](https://ydmitry.ru/blog/rukovodstvo-po-markdown-dlya-uproshcheniya-veb-razrabotki/)
 
+Что делать с git [дома](https://github.com/erv1988/maisabpo/blob/master/git.md)
+
 # Список работ 
 (будет пополняться):
 
