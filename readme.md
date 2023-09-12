@@ -10,7 +10,7 @@
   - пояснение к элементам скрипта
   - примеры запуска и результат.
 
-Ссылки на страницы github отправляйте в группу (записывайтесь в [таблицу]() ). 
+Ссылки на страницы github отправляйте в группу (записывайтесь в [таблицу](https://docs.google.com/spreadsheets/d/1RgOGV5LulmoSVZLtwYaDLyvDzPW-iuZafEAwREhziOI/edit?usp=sharing) ). 
 
 
 Руководство по оформлению Markdown файлов [тут](https://gist.github.com/Jekins/2bf2d0638163f1294637) и [тут](https://ydmitry.ru/blog/rukovodstvo-po-markdown-dlya-uproshcheniya-veb-razrabotki/)
