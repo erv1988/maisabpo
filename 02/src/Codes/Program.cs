@@ -11,8 +11,6 @@ namespace Codes
             int N;
             byte[] buffer = new byte[64*1024*1024];
             Random random = new Random((int)DateTime.Now.Ticks);
-
-            bool successfull = true;
             Console.Write("Ptr=");
             string ptr = Console.ReadLine();
             UInt64 lpAddress = UInt64.Parse(ptr, System.Globalization.NumberStyles.HexNumber);// 0x0000011513ED1048;
@@ -39,7 +37,7 @@ namespace Codes
                 Console.WriteLine($"Wrote {bytesRW} to {lpAddress:X8}");
                 Console.WriteLine("Press key to continue");
                 Console.ReadKey();
-            } while (successfull);
+            } while (true);
 
         }
     }
