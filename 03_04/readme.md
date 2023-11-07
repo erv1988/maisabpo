@@ -35,8 +35,12 @@
 # Читать:
 
 [[0] крипто-провайдер для ГОСТ](https://infotecs.ru/products/vipnet-csp/)
+
 [[1] декомпилятор для C#](https://github.com/icsharpcode/ILSpy) 
+
 [[1] скачать](https://github.com/icsharpcode/ILSpy/releases/download/v8.2/ILSpy_Installer_8.2.0.7535-x64.msi)
+
 [[2] PVS studio](https://pvs-studio.ru/ru/order/for-students/)
+
 [[3] Юнит тестирование](https://learn.microsoft.com/ru-ru/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code?view=vs-2022)
 
